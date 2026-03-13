@@ -48,7 +48,7 @@
 ## New Year
 *2025*  
 <br>
-<img src="Newyear_2025.JPG" width="500">
+<img src="Newyear_2025.JPG" width="400">
 
 ## Road（12” x 16”）
 *2025*  
@@ -60,7 +60,27 @@
 <br>
 <img src="Hydrangeas_2025.JPG" width="500">
 
+## Snow II
+*December 2025*  
+<br>
+<img src="Snow2_2025.JPG" width="500">
+
 ## Snow
 *December 2025*  
 <br>
 <img src="Snow_Dec2025.jpg" width="500">
+
+## Hills（12” x 16”）
+*September 2025*  
+<br>
+<img src="Hills_Oct2025.JPG" width="500">
+
+## Blue（12” x 16”）
+*September 2025*  
+<br>
+<img src="Blue_Sep2025.JPG" width="500">
+
+## Purple Irises（10” x 14”）
+*April 2025*  
+<br>
+<img src="Irises_Apr2025.JPG" width="400">
