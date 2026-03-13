@@ -14,7 +14,7 @@
 *2026
 
 *<div align="center">
-  <img src="Hydrangeas_2026.JPG" width="400">
+  <img src="Hydrangeas_2026.JPG" width="300">
 </div>
 
 ## Greens
