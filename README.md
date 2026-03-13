@@ -10,4 +10,4 @@
 
 *December 2025*
 
-![Fields](Fields_Nov_2025.jpg)
+![Fields](Fields_Nov 2025.jpg)
