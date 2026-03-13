@@ -10,4 +10,5 @@
 
 *December 2025*
 
-![Fields]("Fields_Nov 2025.jpg")  <!-- wrap in quotes -->
+![Fields](Fields_Nov 2025.jpg)
+
