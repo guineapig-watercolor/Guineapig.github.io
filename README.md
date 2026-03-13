@@ -8,7 +8,7 @@
 
 ## Fields
 
-*December 2025*
+*November 2025*
 
 ![Fields](Fields_Nov2025.jpg)
 
