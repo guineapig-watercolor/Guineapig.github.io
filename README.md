@@ -15,6 +15,8 @@
 
 ![Hydrangeas](Hydrangeas_2026.JPG)
 
+<img src="Hydrangeas_2026.JPG" width="400">
+
 ## Greens
 *February 2026*
 
