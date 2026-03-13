@@ -11,8 +11,11 @@
 ![Horizon](Horizon_2026.JPG)
 
 ## Hydrangeas
-*2026*
-<img src="Hydrangeas_2026.JPG" width="400">
+*2026
+
+*<div align="center">
+  <img src="Hydrangeas_2026.JPG" width="400">
+</div>
 
 ## Greens
 *February 2026*
